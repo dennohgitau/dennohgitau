@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dennohgitau
-- 👀 I’m interested in Web Apps Development and Cloud DevOps Engineering.
-- 🌱 I’m currently learning Cloud DevOps Nanodegree in Udacity.
-- 💞️ I’m looking to collaborate on any Backend development example Django projects  and Frontend projects in Javascript, Angular JS, React JS.
+- 👀 I’m interested in Web App Development and Cloud DevOps Engineering.
+- 🌱 I’m also an AWS Cloud Expert.
+- 💞️ I’m looking to collaborate on any Backend development NodeJs, ExpressJs, Django projects, MEAN&MERN Stacks. Frontend projects in Javascript, Angular JS, React JS.
 - 📫 How to reach me: Email -  denisgitaustudy@gmail.com
 
 <!---
